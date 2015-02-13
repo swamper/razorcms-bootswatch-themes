@@ -1,0 +1,14 @@
+{
+	"manifest": "2-column",
+	"type": "theme",
+	"handle": "swamper",
+	"extension": "bootswatch-journal",
+	"layout": "2-column",
+	"name": "Bootswatch Journal",
+	"author": "swamper",
+	"version": 1,
+	"created": 1423531550,
+	"description": "Conversion of the Journal theme from bootswatch.com.",
+	"menus": ["header","footer"],
+	"content": {"header": 2,"main": 2,"footer": 2}
+}

@@ -1,0 +1,14 @@
+{
+	"manifest": "2-column-main",
+	"type": "theme",
+	"handle": "swamper",
+	"extension": "bootswatch-simplex",
+	"layout": "2-column-main",
+	"name": "Bootswatch Simplex",
+	"author": "swamper",
+	"version": 1,
+	"created": 1423532625,
+	"description": "Conversion of the Simplex theme from bootswatch.com.",
+	"menus": ["header","footer"],
+	"content": {"header": 1,"main": 2,"footer": 1}
+}

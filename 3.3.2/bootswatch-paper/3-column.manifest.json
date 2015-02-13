@@ -1,0 +1,14 @@
+{
+	"manifest": "3-column",
+	"type": "theme",
+	"handle": "swamper",
+	"extension": "bootswatch-paper",
+	"layout": "3-column",
+	"name": "Bootswatch Paper",
+	"author": "swamper",
+	"version": 1,
+	"created": 1423532259,
+	"description": "Conversion of the Paper theme from bootswatch.com.",
+	"menus": ["header","footer"],
+	"content": {"header": 3,"main": 3,"footer": 3}
+}

@@ -1,0 +1,14 @@
+{
+	"manifest": "3-column-main",
+	"type": "theme",
+	"handle": "swamper",
+	"extension": "bootswatch-superhero",
+	"layout": "3-column-main",
+	"name": "Bootswatch Superhero",
+	"author": "swamper",
+	"version": 1,
+	"created": 1423533600,
+	"description": "Conversion of the Superhero theme from bootswatch.com.",
+	"menus": ["header","footer"],
+	"content": {"header": 1,"main": 3,"footer": 1}
+}

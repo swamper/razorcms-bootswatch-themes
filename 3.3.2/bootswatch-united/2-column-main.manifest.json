@@ -1,0 +1,14 @@
+{
+	"manifest": "2-column-main",
+	"type": "theme",
+	"handle": "swamper",
+	"extension": "bootswatch-united",
+	"layout": "2-column-main",
+	"name": "Bootswatch United",
+	"author": "swamper",
+	"version": 1,
+	"created": 1423534010,
+	"description": "Conversion of the United theme from bootswatch.com.",
+	"menus": ["header","footer"],
+	"content": {"header": 1,"main": 2,"footer": 1}
+}

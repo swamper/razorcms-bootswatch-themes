@@ -1,0 +1,14 @@
+{
+	"manifest": "2-column",
+	"type": "theme",
+	"handle": "swamper",
+	"extension": "bootswatch-readable",
+	"layout": "2-column",
+	"name": "Bootswatch Readable",
+	"author": "swamper",
+	"version": 1,
+	"created": 1423532537,
+	"description": "Conversion of the Readable theme from bootswatch.com.",
+	"menus": ["header","footer"],
+	"content": {"header": 2,"main": 2,"footer": 2}
+}

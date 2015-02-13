@@ -1,0 +1,14 @@
+{
+	"manifest": "2-column",
+	"type": "theme",
+	"handle": "swamper",
+	"extension": "bootswatch-spacelab",
+	"layout": "2-column",
+	"name": "Bootswatch Spacelab",
+	"author": "swamper",
+	"version": 1,
+	"created": 1423533024,
+	"description": "Conversion of the Spacelab theme from bootswatch.com.",
+	"menus": ["header","footer"],
+	"content": {"header": 2,"main": 2,"footer": 2}
+}
