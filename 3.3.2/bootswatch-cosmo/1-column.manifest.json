@@ -6,7 +6,7 @@
 	"layout": "1-column",
 	"name": "Bootswatch Cosmo",
 	"author": "swamper",
-	"version": 1,
+	"version": 2,
 	"created": 1423531256,
 	"description": "Conversion of the Cosmo theme from bootswatch.com.",
 	"menus": ["header","footer"],
