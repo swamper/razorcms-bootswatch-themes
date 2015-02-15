@@ -29,8 +29,8 @@
 		<!-- load bootstrap, style overrides and public css -->
 		<!--[if IE 9]><link type="text/css" rel="stylesheet" href="<?php echo RAZOR_BASE_URL ?>library/style/razor/razor_base_ie9.css"><![endif]-->
 		<!--[if IE 8]><link type="text/css" rel="stylesheet" href="<?php echo RAZOR_BASE_URL ?>library/style/razor/razor_base_ie8.css"><![endif]-->
-		<!--[if IE 9]><link type="text/css" rel="stylesheet" href="<?php echo RAZOR_BASE_URL ?>extension/theme/swamper/bootswatch-sandstone/style/style_ie9.css"><![endif]-->
-		<!--[if IE 8]><link type="text/css" rel="stylesheet" href="<?php echo RAZOR_BASE_URL ?>extension/theme/swamper/bootswatch-sandstone/style/style_ie8.css"><![endif]-->
+		<!--[if IE 9]><link type="text/css" rel="stylesheet" href="<?php echo RAZOR_BASE_URL ?>extension/theme/swamper/style/style_ie9.css"><![endif]-->
+		<!--[if IE 8]><link type="text/css" rel="stylesheet" href="<?php echo RAZOR_BASE_URL ?>extension/theme/swamper/style/style_ie8.css"><![endif]-->
 	</head>
 
 	<?php $this->body() ?>
@@ -45,7 +45,7 @@
 										<div class="navbar-header">
 											<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
 												<span class="sr-only">Toggle navigation</span>
-												<i class="fa fa-ellipsis-v"></i>
+												<i class="fa fa-bars"></i>
 											</button>
 											<a class="navbar-brand" href="#"><?php echo $this->site["name"] ?></a>
 										</div>

@@ -6,7 +6,7 @@
 	"layout": "2-column-drill-down",
 	"name": "Bootswatch Flatly",
 	"author": "swamper",
-	"version": 1,
+	"version": 2,
 	"created": 1423063917,
 	"description": "Conversion of the Flatly theme from bootswatch.com.",
 	"menus": ["header","footer"],
