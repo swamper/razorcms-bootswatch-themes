@@ -6,7 +6,7 @@
 	"layout": "3-column-main",
 	"name": "Bootswatch Sandstone",
 	"author": "swamper",
-	"version": 1,
+	"version": 2,
 	"created": 1422992652,
 	"description": "Conversion of the Sandstone theme from bootswatch.com.",
 	"menus": ["header","footer"],
